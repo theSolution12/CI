@@ -1,16 +1,12 @@
 {
-  "name": "ci",
+  "name": "node-ci-demo",
   "version": "1.0.0",
-  "description": "",
-  "license": "ISC",
-  "author": "",
-  "type": "module",
+  "description": "Basic Node.js CI example using GitHub Actions",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js",
-    "start": "node index.js"
+    "test": "node test.js"
   },
-  "dependencies": {
-    "express": "^5.2.1"
-  }
+  "keywords": [],
+  "author": "alokmisra",
+  "license": "ISC"
 }
